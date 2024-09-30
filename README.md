@@ -34,13 +34,13 @@ Foi adicionada responsividade ao projeto, utilizando media queries para ajustar 
 1. Clonar o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/detona-ralph-jogo.git
+    git clone https://github.com/Err0rGCeni/DIOProject_DetonaRalph.git
     ```
 
 2. Navegar ao diretório do projeto:
 
     ```bash
-    cd detona-ralph-jogo
+    cd DIOProject_DetonaRalph
     ```
 
 3. Abrir o arquivo `index.html` no navegador.
