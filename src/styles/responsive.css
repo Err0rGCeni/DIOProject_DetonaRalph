@@ -1,0 +1,39 @@
+@media (max-width: 768px) {
+    h2 {
+        font-size: 20px;
+    }
+    
+    .square {
+        height: 100px;
+        width: 100px;
+    }
+
+    .menu {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    .menu img {
+        display: block;
+    }
+
+    .menu h2 {
+        display: none;
+    }
+
+    .square {
+        height: 75px;
+        width: 75px;
+    }
+
+    .panel {
+        gap: 0.5rem;
+    }
+}

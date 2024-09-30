@@ -1,0 +1,32 @@
+.panel {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.panel-row {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.square {
+    height: 150px;
+    width: 150px;
+    border: 2px solid #161423;
+    border-radius: 5px;
+    background-color: #1867a0;
+}
+
+.enemy {
+    background-image: url("../assets/images/ralph.gif");
+    background-size: cover;
+    background-color: #26dddd;
+    cursor: pointer;
+}
+
+.hit {
+    background-color: #1fcb23;
+}

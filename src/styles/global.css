@@ -1,0 +1,9 @@
+body {
+    background-image: url("../assets/images/background.jpeg");
+    font-family: "Press Start 2P", "Bebas Neue", sans-serif;
+    color: #f2f2f9;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
